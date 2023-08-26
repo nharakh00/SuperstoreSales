@@ -4,4 +4,8 @@ This project is done entirely in Excel and showcases my data cleaning, analysis,
 
 # Building The Dashboard 
 
+https://docs.google.com/presentation/d/1kiStr55-m1z14dCp86tqSzrNTCElbkLMY8y4ocLkR-I/edit?usp=sharing
+
 # Data Storytelling
+
+https://docs.google.com/presentation/d/170TTezvH1ifsXK-l92UNsXNoW-QzJVaCm3RrHLGVqOY/edit?usp=sharing
